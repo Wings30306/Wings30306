@@ -25,6 +25,7 @@ Learning never stops, but so far I've learned how to work with:
 - Flask
 - Django
 - C#
+- .NET Core
 - ASP.&#8203;NET
 
 Non-programming skills:
