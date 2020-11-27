@@ -1,7 +1,8 @@
 # Joke Heyndels (Wings30306)
-<!-- ![Jo posing in her home office](cover2.jpg) -->
 
 ## FactFile
+<img src="coverphoto.jpg" width="200" alt="Jo posing in her home office"/>
+
 - Pronouns: she/her 🚺
 - Country: Belgium 🇧🇪
 - Coding since 2018 👩‍💻
