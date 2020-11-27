@@ -1,5 +1,5 @@
 # Joke Heyndels (Wings30306)
-![Jo posing in her home office](cover2.jpg)
+<!-- ![Jo posing in her home office](cover2.jpg) -->
 
 ## FactFile
 - Pronouns: she/her 🚺
