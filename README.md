@@ -6,10 +6,10 @@
 - Pronouns: she/her 🚺
 - Country: Belgium 🇧🇪
 - Coding since 2018 👩‍💻
-- Open to work: ✔️
+- Open to work: No
 
 ## AboutMe
-I'm Joke, a Junior Full Stack Software Developer from Belgium. I am a hard worker with a lot of attention to detail and I am always eager to learn and improve my skills.
+I'm Joke, a Junior Full Stack Software Developer from Belgium, currently employed as a Tutor and Developer with Code Institute. I am a hard worker with a lot of attention to detail and I am always eager to learn and improve my skills.
 
 I'm very creative, and when I'm not channeling that creativity into a project I love to knit, draw and write poems and stories.
 
@@ -26,9 +26,7 @@ Learning never stops, but so far I've learned how to work with:
 - Python
 - Flask
 - Django
-- C#
-- .NET Core
-- ASP.&#8203;NET
+- React
 
 Non-programming skills:
 
