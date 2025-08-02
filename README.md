@@ -1,12 +1,15 @@
 # Joke Heyndels (Wings30306)
 
 ## FactFile
-<img src="coverphoto.jpg" width="200" alt="Jo posing in her home office"/>
+
+<img align="right" height="200" src="cover2.jpg" alt="Jo posing in her home office. She is wearing a knitted sweater and the computer screen is showing code."/>
 
 - Pronouns: she/her 🚺
 - Country: Belgium 🇧🇪
 - Coding since 2018 👩‍💻
 - Open to work: ✔️
+
+<br><br>
 
 ## AboutMe
 I'm Joke, a Junior Full Stack Software Developer from Belgium. I am a hard worker with a lot of attention to detail and I am always eager to learn and improve my skills.
